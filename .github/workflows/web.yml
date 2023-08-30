@@ -1,4 +1,4 @@
-name: AHJHwork_DOM
+name: AHJHwork_animations
 
 on: [push, pull_request]
 
